@@ -2,6 +2,10 @@
   "name": "deep-chat-ext",
   "displayName": "deep-chat-ext",
   "description": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ashish-Barmaiya/deepseek-chat-vscode-extension.git"
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.96.0"
